@@ -1,5 +1,6 @@
 import json
 import datetime
 
-date = date.today()
-print(f"Hello, World! Today is {date}")
+name = 'Chinmay'
+print(f"Hello, {name}!")
+
