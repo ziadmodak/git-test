@@ -1,3 +1,3 @@
 import json
 
-print("Hello, WOrld!")
+print("Hello, World!")
